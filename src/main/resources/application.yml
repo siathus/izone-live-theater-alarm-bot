@@ -1,0 +1,29 @@
+naver:
+  clientId: {NAVER Short URL Open API Client ID}
+  clientSecret: {NAVER Short URL Open API Client Secret}
+
+telegram:
+  bot:
+    token: {알림 받을 텔레그램 봇 Token}
+    chatId: {알림 받을 텔레그램 Chat ID}
+
+theater:
+  cgv:
+    -
+      name: "CGV용산아이파크몰14관"
+      areacode: "01"
+      theatercode: "0013"
+      date: "20210303"
+      screencodes: "012"
+    -
+      name: "CGV용산아이파크몰통합관"
+      areacode: "01"
+      theatercode: "0013"
+      date: "20210303"
+      screencodes: "003"
+    -
+      name: "CGV왕십리4관"
+      areacode: "01"
+      theatercode: "0074"
+      date: "20210303"
+      screencodes: "004"
